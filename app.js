@@ -9,8 +9,9 @@ function getText() {
       return res.text();
     })
     .then(function(data) {
-      console.log(data);
-      document.getElementById('output').innerHTML = data;
+      const lines = data.split("\n");
+      console.log(lines);
+      document.getElementById('output').innerHTML = lines;
     })
     .catch(function(err){
       console.log(err);
