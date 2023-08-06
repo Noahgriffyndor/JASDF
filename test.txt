@@ -1,14 +1,14 @@
 yyyymmdd
-text
-link
 img
+link
+text
 
 yyyymmdd
-text
-link
 img
+link
+text
 
 yyyymmdd
-text
-link
 img
+link
+text
